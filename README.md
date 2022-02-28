@@ -5,4 +5,4 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api/?username=GataNina-Li&theme=synthwave)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
