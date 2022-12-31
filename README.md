@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
 ## ¡Hola! 😸 Bienvenido(a) te presento mí Perfil ✨
 ### ***Espero te encuentres bien 🌸***
 
@@ -9,8 +11,11 @@
   
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-<a href="https://instagram.com/gata_dios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA)
+<div align="center"> 
+<a href="https://instagram.com/gata_dios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@gatadios" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:https://centergatabot@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
