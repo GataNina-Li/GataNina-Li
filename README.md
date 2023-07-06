@@ -4,7 +4,7 @@
 > "La constancia vence lo que la dicha no alcanza."
 ### ***❤️ Espero te encuentres bien 🌸***
 ### 🙌 Anímate en seguir las cuentas para que estes al tanto de lo que este haciendo
-> Si desea contactarme lo puede hacer por sólo Instagram
+> Si desea contactarme lo puede hacer sólo por Instagram
 <div align="center"> 
 <a href="https://instagram.com/gata_dios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
 <a href="https://www.youtube.com/@gatadios" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
