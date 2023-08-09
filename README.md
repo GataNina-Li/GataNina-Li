@@ -28,3 +28,5 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatanina-li&theme=midnight-purple&locale=es)
