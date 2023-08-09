@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 <a href="https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76"/>
 <img src="https://img.shields.io/badge/🐈_𝘎𝘢𝘵𝘢𝘉𝘰𝘵_𝘚𝘰𝘤𝘪𝘢𝘭_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  
+
+  <h2 align="center"> ESTADÍSTICAS </h2>
 </div>
 <br>
 <div align="center">
