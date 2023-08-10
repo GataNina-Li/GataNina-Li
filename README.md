@@ -39,3 +39,6 @@
 <a href="https://github.com/Abiguelreyes75/ErikaBOT">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abiguelreyes75&repo=ErikaBOT&theme=merko)</a>
 <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=omni)</a>
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=jolly)</a>
+<a href="https://github.com/DIEGO-OFC/Zirax-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DIEGO-OFC&repo=Zirax-Bot-MD&theme=merko)</a>
+<a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=omni)</a>
+<a href="https://github.com/ReyEndymion/ANI_MX_SCANS-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ReyEndymion&repo=ANI_MX_SCANS-MD&theme=jolly)</a>
