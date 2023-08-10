@@ -36,4 +36,4 @@
 <a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=omni)</a>
 <h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
 
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotV2&theme=merko)</a>
+<a href="https://github.com/Abiguelreyes75/ErikaBOT">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abiguelreyes75&repo=ErikaBOT&theme=merko)</a>
