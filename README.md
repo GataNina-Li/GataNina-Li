@@ -35,3 +35,5 @@
 <a href="https://github.com/GataNina-Li/MultiverseBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=MultiverseBot-MD&theme=merko)</a>
 <a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=omni)</a>
 <h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
+
+<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotV2&theme=merko)</a>
