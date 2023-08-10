@@ -37,3 +37,5 @@
 <h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
 
 <a href="https://github.com/Abiguelreyes75/ErikaBOT">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abiguelreyes75&repo=ErikaBOT&theme=merko)</a>
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=onmi)</a>
+<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=jolly)</a>
