@@ -29,6 +29,6 @@
 </div>
 <h2 align="center"> MIS PROYECTOS </h2>
 
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=jol_darkly)</a>
+<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=jolly_dark)</a>
 <a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=omni)</a>
 <a href="https://github.com/GataNina-Li/GataBotV2">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotV2&theme=jolly)</a>
