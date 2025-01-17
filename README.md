@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8848ff&height=120&section=header"/>
 
 ## ¡Hola! 👋 Bienvenido(a) me conocen como Gata Dios 😻✨
 
@@ -57,13 +57,12 @@
 <a href="https://github.com/GataNina-Li/YartexBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=YartexBot-MD&theme=rose)</a>
 <a href="https://github.com/GataNina-Li/GataBot-MD1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD1&theme=ambient_gradient)</a>
 <a href="https://github.com/GataNina-Li/MultiverseBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=MultiverseBot-MD&theme=rose)</a>
+<a href="https://github.com/GataNina-Li/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=CuriosityBot-MD&theme=ambient_gradient)</a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
 <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=cobalt)</a>
-<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=merko)</a>
-<a href="https://github.com/DIEGO-OFC/ShadowBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DIEGO-OFC&repo=ShadowBot-MD&theme=cobalt)</a>
 <a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=merko)</a>
 <a href="https://github.com/ReyEndymion/ANI_MX_SCANS-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ReyEndymion&repo=ANI_MX_SCANS-MD&theme=cobalt)</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
